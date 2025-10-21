@@ -65,7 +65,6 @@
 ### שלב 1: שכפול הפרויקט
 ```bash
 git clone https://github.com/brachi0525/Cash-Register
-cd DotNet2025_0525_6237
 ```
 
 ### שלב 2: בניית הפרויקט
