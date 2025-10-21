@@ -1,6 +1,0 @@
-18/02/2025 08:35:44	Dal.ProductImplememetation.Create:	Create product started
-18/02/2025 08:35:44	Dal.ProductImplememetation.Create:	finish Create product
-18/02/2025 08:35:44	Dal.saleImplememetation.Create:	Create sale started
-18/02/2025 08:35:44	Dal.saleImplememetation.Create:	finish Create sale
-18/02/2025 08:35:44	Dal.CustomerImplememetion.Create:	Create customer started
-18/02/2025 08:35:44	Dal.CustomerImplememetion.Create:	finsh Create customer
