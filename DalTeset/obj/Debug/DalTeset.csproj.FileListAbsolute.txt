@@ -1,0 +1,214 @@
+D:\פרויקט השנה\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+D:\פרויקט השנה\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט השנה\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+D:\פרויקט השנה\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+D:\פרויקט השנה\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\bin\DalTeset.exe
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\bin\DalTeset.deps.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\bin\DalTeset.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\bin\DalTeset.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CopyComplete
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט  שלי\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.exe
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.deps.json
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.dll
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.pdb
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CopyComplete
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+Z:\mora\פריש\יד FS\שב פולסטאק\05.11.24\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.exe
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.deps.json
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.dll
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\bin\DalTeset.pdb
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CopyComplete
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+D:\c#\ברכי שורץ ונחמי ברנר\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.exe
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.deps.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CopyComplete
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.exe
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.deps.json
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.dll
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.pdb
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CopyComplete
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+Z:\B\נחמי ברנר\c#\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.exe
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.deps.json
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.dll
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.pdb
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.Up2Date
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+Z:\B\ברכי שורץ\c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.exe
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.deps.json
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.dll
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\bin\DalTeset.pdb
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CopyComplete
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+C:\Users\user1\Pictures\י''ד\פרויקט c#\03_13_2024\פרויקט טוב\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\bin\DalTeset.exe
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\bin\DalTeset.deps.json
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\bin\DalTeset.dll
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\bin\DalTeset.pdb
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.Up2Date
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+Z:\B\נחמי ברנר\c#\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+D:\c#\שלב4\DotNet2025_0525_6237\bin\DalTeset.exe
+D:\c#\שלב4\DotNet2025_0525_6237\bin\DalTeset.deps.json
+D:\c#\שלב4\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+D:\c#\שלב4\DotNet2025_0525_6237\bin\DalTeset.dll
+D:\c#\שלב4\DotNet2025_0525_6237\bin\DalTeset.pdb
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CopyComplete
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+D:\c#\שלב4\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\bin\DalTeset.exe
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\bin\DalTeset.deps.json
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\bin\DalTeset.dll
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\bin\DalTeset.pdb
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.Up2Date
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+Z:\B\ברכי שורץ\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.exe
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.deps.json
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.dll
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.pdb
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CopyComplete
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+C:\Users\user1\Downloads\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.exe
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.deps.json
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.dll
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.pdb
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.Up2Date
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+Z:\B\ברכי שורץ\c#\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.exe
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.deps.json
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.runtimeconfig.json
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.dll
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\bin\DalTeset.pdb
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.AssemblyReference.cache
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfoInputs.cache
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.AssemblyInfo.cs
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CoreCompileInputs.cache
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.csproj.CopyComplete
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.dll
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.pdb
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\DalTeset.genruntimeconfig.cache
+D:\c#\שלב5\שלב5 נחמי\DotNet2025_0525_6237\DalTeset\obj\Debug\ref\DalTeset.dll
+C:\Users\user1\Downloads\פרויקט ברכי\DotNet2025_0525_6237\DalTeset\obj\Debug\refint\DalTeset.dll

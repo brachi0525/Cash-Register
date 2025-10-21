@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddProducttoorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="clientMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeleteProductfromorder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="finish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManAddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManAddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManAddSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManCustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaleManDeleteCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManDeleteProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManDeleteSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManSalesMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaleManUpdateCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManUpdeteProdect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="saleManUpdeteSale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="salesManProductMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

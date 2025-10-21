@@ -1,0 +1,321 @@
+D:\c#\שלב6\DotNet2025_0525_6237\bin\GUI.exe
+D:\c#\שלב6\DotNet2025_0525_6237\bin\GUI.deps.json
+D:\c#\שלב6\DotNet2025_0525_6237\bin\GUI.runtimeconfig.json
+D:\c#\שלב6\DotNet2025_0525_6237\bin\GUI.dll
+D:\c#\שלב6\DotNet2025_0525_6237\bin\GUI.pdb
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AddProducttoorder.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.DeleteProductfromorder.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfoInputs.cache
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfo.cs
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.dll
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.genruntimeconfig.cache
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\ref\GUI.dll
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddProduct.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManMenu.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.salesManProductMenu.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteProduct.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteProdect.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddSale.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteSale.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManSalesMenu.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteSale.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.exe
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.deps.json
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.runtimeconfig.json
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.dll
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.pdb
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AddProducttoorder.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.customerMenu.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.DeleteProductfromorder.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddProduct.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddSale.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteProduct.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteSale.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManMenu.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManSalesMenu.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteProdect.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteSale.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.salesManProductMenu.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.dll
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.genruntimeconfig.cache
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\ref\GUI.dll
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddCustomer.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManDeleteCustomer.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManUpdateCustomer.resources
+C:\Users\user1\Downloads\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManCustomerMenu.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.exe
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.deps.json
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.runtimeconfig.json
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.dll
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\bin\GUI.pdb
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AddProducttoorder.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.customerMenu.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.DeleteProductfromorder.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddCustomer.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddProduct.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddSale.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManCustomerMenu.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManDeleteCustomer.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteProduct.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteSale.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManMenu.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManSalesMenu.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManUpdateCustomer.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteProdect.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteSale.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.salesManProductMenu.resources
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfoInputs.cache
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfo.cs
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.dll
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\GUI.genruntimeconfig.cache
+D:\c#\jm_YZqIG3uBykSm8rd\DotNet2025_0525_6237\GUI\obj\Debug\ref\GUI.dll
+C:\Users\user1\Downloads\פרויקט ברכי\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+C:\Users\user1\Downloads\פרויקט ברכי\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+D:\c#\DotNet2025_0525_6237\bin\GUI.exe
+D:\c#\DotNet2025_0525_6237\bin\GUI.deps.json
+D:\c#\DotNet2025_0525_6237\bin\GUI.runtimeconfig.json
+D:\c#\DotNet2025_0525_6237\bin\GUI.dll
+D:\c#\DotNet2025_0525_6237\bin\GUI.pdb
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AddProducttoorder.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.customerMenu.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.DeleteProductfromorder.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddCustomer.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddProduct.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddSale.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManCustomerMenu.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManDeleteCustomer.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteProduct.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteSale.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManMenu.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManSalesMenu.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManUpdateCustomer.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteProdect.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteSale.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.salesManProductMenu.resources
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfoInputs.cache
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfo.cs
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.dll
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\GUI.genruntimeconfig.cache
+D:\c#\DotNet2025_0525_6237\GUI\obj\Debug\ref\GUI.dll
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\bin\GUI.exe
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\bin\GUI.deps.json
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\bin\GUI.runtimeconfig.json
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\bin\GUI.dll
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\bin\GUI.pdb
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AddProducttoorder.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.customerMenu.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.DeleteProductfromorder.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddCustomer.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddProduct.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddSale.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManCustomerMenu.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManDeleteCustomer.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteProduct.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteSale.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManMenu.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManSalesMenu.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManUpdateCustomer.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteProdect.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteSale.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.salesManProductMenu.resources
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfoInputs.cache
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfo.cs
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.Up2Date
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.dll
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.genruntimeconfig.cache
+Z:\B\ברכי שורץ\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\ref\GUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AddProducttoorder.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.customerMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.DeleteProductfromorder.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1 .resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddCustomer.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddProduct.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddSale.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManCustomerMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManDeleteCustomer.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteProduct.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteSale.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManSalesMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManUpdateCustomer.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteProdect.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteSale.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.salesManProductMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfo.cs
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\bin\GUI.exe
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\bin\GUI.deps.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\bin\GUI.runtimeconfig.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\bin\GUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\bin\GUI.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.genruntimeconfig.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\ref\GUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.clientMenu.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.exe
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.deps.json
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.runtimeconfig.json
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.dll
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.pdb
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AddProducttoorder.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.clientMenu.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.customerMenu.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.DeleteProductfromorder.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1 .resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddCustomer.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddProduct.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddSale.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManCustomerMenu.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManDeleteCustomer.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteProduct.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteSale.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManMenu.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManSalesMenu.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManUpdateCustomer.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteProdect.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteSale.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.salesManProductMenu.resources
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.dll
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.genruntimeconfig.cache
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\ref\GUI.dll
+C:\Users\user1\Downloads\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.finish.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AddProducttoorder.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.clientMenu.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.DeleteProductfromorder.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.finish.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1 .resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddCustomer.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddProduct.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddSale.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManCustomerMenu.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManDeleteCustomer.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteProduct.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteSale.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManMenu.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManSalesMenu.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManUpdateCustomer.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteProdect.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteSale.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.salesManProductMenu.resources
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfoInputs.cache
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfo.cs
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.dll
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.exe
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.deps.json
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.runtimeconfig.json
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.dll
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\bin\GUI.pdb
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.Up2Date
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\GUI.genruntimeconfig.cache
+Z:\B\נחמי ברנר\c#\jm_MP_-9opoFEuiHVm\DotNet2025_0525_6237\GUI\obj\Debug\ref\GUI.dll
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.clientMenu.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.finish.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1 .resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddCustomer.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManCustomerMenu.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManDeleteCustomer.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManUpdateCustomer.resources
+D:\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.search.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\bin\GUI.exe
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\bin\GUI.deps.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\bin\GUI.runtimeconfig.json
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\bin\GUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\bin\GUI.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AddProducttoorder.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.clientMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.DeleteProductfromorder.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.finish.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1 .resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddCustomer.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddProduct.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManAddSale.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManCustomerMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManDeleteCustomer.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteProduct.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManDeleteSale.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManSalesMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.SaleManUpdateCustomer.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteProdect.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.saleManUpdeteSale.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.salesManProductMenu.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.search.resources
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.AssemblyInfo.cs
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\refint\GUI.dll
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.pdb
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\GUI.genruntimeconfig.cache
+C:\Users\user1\Desktop\ברכי תכנות\שנה ב\אונקי\c#\שלב6\DotNet2025_0525_6237\GUI\obj\Debug\ref\GUI.dll

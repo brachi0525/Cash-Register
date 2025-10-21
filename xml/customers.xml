@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>3</Id>
+    <CustomerName>2</CustomerName>
+    <Address>2</Address>
+    <PhoneNumber>2</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>4321035</Id>
+    <CustomerName />
+    <Address />
+    <PhoneNumber />
+  </Customer>
+  <Customer>
+    <Id>1</Id>
+    <CustomerName>1</CustomerName>
+    <Address>1</Address>
+    <PhoneNumber>1</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>45654</Id>
+    <CustomerName>ךל</CustomerName>
+    <Address>ל</Address>
+    <PhoneNumber>025</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>0</Id>
+    <CustomerName>קרן</CustomerName>
+    <Address>0</Address>
+    <PhoneNumber>0</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>55</Id>
+    <CustomerName>בבבב</CustomerName>
+    <Address>ךך</Address>
+    <PhoneNumber>44</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>555</Id>
+    <CustomerName>נננננ</CustomerName>
+    <Address>ל</Address>
+    <PhoneNumber>44</PhoneNumber>
+  </Customer>
+  <Customer>
+    <Id>215310525</Id>
+    <CustomerName>ברכי</CustomerName>
+    <Address>פונוביז</Address>
+    <PhoneNumber>0556710244</PhoneNumber>
+  </Customer>
+</ArrayOfCustomer>

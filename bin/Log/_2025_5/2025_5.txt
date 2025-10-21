@@ -1,0 +1,1487 @@
+21/05/2025 20:43:12	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:43:12	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:43:12	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:43:12	CustomerImplementation.Read:	Error: Customer with ID 215310525 not found.
+21/05/2025 20:43:17	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:43:17	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:43:44	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:43:44	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:43:44	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:43:44	CustomerImplementation.Read:	Error: Customer with ID 215310525 not found.
+21/05/2025 20:43:46	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:43:46	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:44:24	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:44:24	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:44:28	Dal.ProductImplementation.Read:	Read product with filter started
+21/05/2025 20:44:28	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:44:28	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:44:34	Dal.ProductImplementation.Read:	Read product with filter started
+21/05/2025 20:44:35	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:44:35	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:44:47	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:44:47	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:44:51	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:44:51	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:44:58	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:44:58	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:06	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:45:06	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:45:06	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:45:06	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 20:45:09	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:45:09	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:45:11	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:11	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:11	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:12	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:14	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:14	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:14	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:14	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:14	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:14	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:20	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:45:20	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:45:22	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:22	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:22	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:22	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:25	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:25	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:25	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:25	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:25	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:25	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:34	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:45:34	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:45:37	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:37	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:37	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:37	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:39	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:39	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:39	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:39	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:41	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:41	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:41	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:41	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:44	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:44	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:44	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:44	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:46	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:46	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:46	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:46	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:48	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:48	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:48	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:48	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:51	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:51	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:51	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:51	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:54	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:54	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:45:54	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:45:54	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:45:54	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:45:54	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:46:02	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:46:02	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:46:02	Dal.ProductImplementation.Update:	Update product started
+21/05/2025 20:46:02	Dal.ProductImplementation.Update:	Update product finished
+21/05/2025 20:46:02	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:46:02	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:46:02	Dal.ProductImplementation.Update:	Update product started
+21/05/2025 20:46:02	Dal.ProductImplementation.Update:	Update product finished
+21/05/2025 20:46:02	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:46:02	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:46:02	Dal.ProductImplementation.Update:	Update product started
+21/05/2025 20:46:02	Dal.ProductImplementation.Update:	Update product finished
+21/05/2025 20:46:13	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:46:13	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:46:13	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:46:13	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 20:46:15	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:46:15	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:46:18	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:46:18	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:46:18	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:46:18	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:46:27	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:46:28	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:46:44	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:46:44	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:46:48	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:46:48	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:46:55	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:46:55	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:47:00	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:47:00	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:47:04	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:47:04	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:47:04	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:47:04	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 20:47:05	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:47:05	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:47:08	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:47:08	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:47:08	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:47:08	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:47:14	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:47:14	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:47:14	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:47:14	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:47:14	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:47:14	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:47:42	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:47:42	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:47:42	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:47:42	CustomerImplementation.Read:	Error: Customer with ID 21 not found.
+21/05/2025 20:47:43	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:47:43	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:47:45	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:47:45	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:47:45	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:47:45	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:47:50	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:47:50	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:47:52	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:47:52	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:48:36	Dal.SaleImplementation.Read:	Read sale by ID started
+21/05/2025 20:48:36	Dal.SaleImplementation.Read:	Read sale by ID finished
+21/05/2025 20:48:56	Dal.SaleImplementation.Read:	Read sale by ID started
+21/05/2025 20:48:56	Dal.SaleImplementation.Read:	Read sale by ID finished
+21/05/2025 20:48:57	Dal.SaleImplementation.Update:	Update sale started
+21/05/2025 20:48:57	Dal.SaleImplementation.Update:	Update sale finished
+21/05/2025 20:48:59	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:48:59	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:15	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:49:15	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:49:15	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:49:15	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 20:49:16	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:49:16	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:49:18	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:18	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:18	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:19	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:23	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:23	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:23	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:24	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:26	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:26	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:26	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:26	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:28	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:28	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:28	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:28	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:30	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:30	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:30	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:30	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:31	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:31	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:31	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:31	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:34	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:34	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:34	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:34	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:36	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:36	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:36	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:36	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:45	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:49:45	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:49:45	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:49:45	CustomerImplementation.Read:	Error: Customer with ID 214145 not found.
+21/05/2025 20:49:46	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:49:46	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:49:48	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:48	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:48	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:48	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:49:50	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:49:50	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:49:50	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:49:50	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:51:25	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:51:25	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:51:25	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:51:25	CustomerImplementation.Read:	Error: Customer with ID 212 not found.
+21/05/2025 20:51:27	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:51:27	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:51:29	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:51:29	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:51:29	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:51:29	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:51:32	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:51:32	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:51:32	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:51:32	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:51:32	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:51:32	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:54:55	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:54:55	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:54:55	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:54:55	CustomerImplementation.Read:	Error: Customer with ID 2 not found.
+21/05/2025 20:56:24	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:56:25	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:56:27	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:56:27	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:56:27	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:56:27	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:56:29	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:56:29	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:56:29	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:56:29	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:57:23	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:57:23	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:57:23	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:57:23	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 20:57:24	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:57:24	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:57:25	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:57:25	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:57:25	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:57:25	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:57:28	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:57:28	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:57:28	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:57:28	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:58:53	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 20:58:53	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 20:58:53	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 20:58:53	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 20:58:54	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 20:58:55	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 20:58:57	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:58:57	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:58:57	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:58:57	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:59:37	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:59:37	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 20:59:37	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 20:59:37	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 20:59:37	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 20:59:37	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:00:12	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:00:12	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:00:12	Dal.ProductImplementation.Update:	Update product started
+21/05/2025 21:00:13	Dal.ProductImplementation.Update:	Update product finished
+21/05/2025 21:22:21	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 21:22:21	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 21:22:21	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 21:22:21	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 21:22:23	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 21:22:23	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 21:22:25	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:22:25	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:22:25	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:22:25	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:22:30	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:22:30	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:22:30	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:22:30	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:22:30	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:22:30	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:36:49	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 21:36:49	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 21:36:49	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 21:36:49	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 21:36:51	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 21:36:51	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 21:36:52	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:36:52	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:36:53	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:36:53	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:36:56	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:36:56	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:36:56	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:36:56	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:36:56	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:36:56	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:37:04	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:37:04	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:37:04	Dal.ProductImplementation.Update:	Update product started
+21/05/2025 21:37:04	Dal.ProductImplementation.Update:	Update product finished
+21/05/2025 21:40:08	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 21:40:08	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 21:40:08	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 21:40:08	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 21:40:09	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 21:40:09	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 21:40:10	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:40:10	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:40:11	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:40:11	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:40:34	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:40:34	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:40:34	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:40:34	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:40:34	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:40:34	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:43:33	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 21:43:33	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 21:43:34	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 21:43:34	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 21:43:34	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 21:43:35	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 21:43:36	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:43:36	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:43:36	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:43:36	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:43:41	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:43:41	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:43:41	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:43:41	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:43:41	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:43:41	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:43:46	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:43:46	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:43:46	Dal.ProductImplementation.Update:	Update product started
+21/05/2025 21:43:46	Dal.ProductImplementation.Update:	Update product finished
+21/05/2025 21:55:45	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 21:55:45	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 21:55:45	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 21:55:45	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 21:55:47	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 21:55:47	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 21:55:48	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:55:48	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:55:48	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:55:48	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:56:04	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 21:56:04	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 21:56:04	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 21:56:04	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 21:56:05	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 21:56:05	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 21:56:08	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:56:08	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:56:08	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:56:08	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:56:13	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:56:13	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:56:13	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:56:13	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:56:13	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:56:13	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:56:45	CustomerImplementation.Read:	Started reading customer by ID
+21/05/2025 21:56:45	CustomerImplementation.ReadAll:	Started reading all customers
+21/05/2025 21:56:45	CustomerImplementation.ReadAll:	Finished reading all customers
+21/05/2025 21:56:45	CustomerImplementation.Read:	Finished reading customer by ID
+21/05/2025 21:56:46	Dal.ProductImplementation.ReadAll:	Read all products started
+21/05/2025 21:56:46	Dal.ProductImplementation.ReadAll:	Read all products finished
+21/05/2025 21:56:48	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:56:48	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:56:48	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:56:48	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:57:01	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:57:01	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:57:01	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:57:01	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:57:03	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:57:03	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:57:03	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:57:03	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:57:06	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:57:06	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:57:06	Dal.SaleImplementation.ReadAll:	Read all sales started
+21/05/2025 21:57:07	Dal.SaleImplementation.ReadAll:	Read all sales finished
+21/05/2025 21:57:07	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:57:07	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:57:14	Dal.ProductImplementation.Read:	Read product by ID started
+21/05/2025 21:57:14	Dal.ProductImplementation.Read:	Read product by ID finished
+21/05/2025 21:57:14	Dal.ProductImplementation.Update:	Update product started
+21/05/2025 21:57:14	Dal.ProductImplementation.Update:	Update product finished
+24/05/2025 23:00:52	CustomerImplementation.Read:	Started reading customer by ID
+24/05/2025 23:00:52	CustomerImplementation.ReadAll:	Started reading all customers
+24/05/2025 23:00:52	CustomerImplementation.ReadAll:	Finished reading all customers
+24/05/2025 23:00:52	CustomerImplementation.Read:	Finished reading customer by ID
+24/05/2025 23:00:54	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:00:54	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:00:56	Dal.ProductImplementation.Read:	Read product by ID started
+24/05/2025 23:00:56	Dal.ProductImplementation.Read:	Read product by ID finished
+24/05/2025 23:00:56	Dal.SaleImplementation.ReadAll:	Read all sales started
+24/05/2025 23:00:56	Dal.SaleImplementation.ReadAll:	Read all sales finished
+24/05/2025 23:01:01	Dal.ProductImplementation.Read:	Read product by ID started
+24/05/2025 23:01:01	Dal.ProductImplementation.Read:	Read product by ID finished
+24/05/2025 23:01:01	Dal.SaleImplementation.ReadAll:	Read all sales started
+24/05/2025 23:01:01	Dal.SaleImplementation.ReadAll:	Read all sales finished
+24/05/2025 23:01:01	Dal.ProductImplementation.Read:	Read product by ID started
+24/05/2025 23:01:01	Dal.ProductImplementation.Read:	Read product by ID finished
+24/05/2025 23:01:07	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:01:07	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:01:09	Dal.ProductImplementation.Read:	Read product by ID started
+24/05/2025 23:01:09	Dal.ProductImplementation.Read:	Read product by ID finished
+24/05/2025 23:01:09	Dal.SaleImplementation.ReadAll:	Read all sales started
+24/05/2025 23:01:09	Dal.SaleImplementation.ReadAll:	Read all sales finished
+24/05/2025 23:01:34	Dal.ProductImplementation.Read:	Read product by ID started
+24/05/2025 23:01:34	Dal.ProductImplementation.Read:	Read product by ID finished
+24/05/2025 23:01:34	Dal.SaleImplementation.ReadAll:	Read all sales started
+24/05/2025 23:01:34	Dal.SaleImplementation.ReadAll:	Read all sales finished
+24/05/2025 23:01:34	Dal.ProductImplementation.Read:	Read product by ID started
+24/05/2025 23:01:34	Dal.ProductImplementation.Read:	Read product by ID finished
+24/05/2025 23:01:39	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:01:39	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:01:42	Dal.ProductImplementation.Read:	Read product by ID started
+24/05/2025 23:01:42	Dal.ProductImplementation.Read:	Read product by ID finished
+24/05/2025 23:01:42	Dal.ProductImplementation.Update:	Update product started
+24/05/2025 23:01:42	Dal.ProductImplementation.Update:	Update product finished
+24/05/2025 23:01:42	Dal.ProductImplementation.Read:	Read product by ID started
+24/05/2025 23:01:42	Dal.ProductImplementation.Read:	Read product by ID finished
+24/05/2025 23:01:42	Dal.ProductImplementation.Update:	Update product started
+24/05/2025 23:01:42	Dal.ProductImplementation.Update:	Update product finished
+24/05/2025 23:01:48	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:01:48	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:02:21	Dal.ProductImplementation.Create:	Create product started
+24/05/2025 23:02:21	Dal.ProductImplementation.Create:	Create product finished
+24/05/2025 23:02:21	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:02:21	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:02:38	Dal.ProductImplementation.Delete:	Delete product started
+24/05/2025 23:02:38	Dal.ProductImplementation.Delete:	Delete product finished
+24/05/2025 23:02:39	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:02:39	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:02:44	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:02:44	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:02:48	Dal.ProductImplementation.Read:	Read product by ID started
+24/05/2025 23:02:48	Dal.ProductImplementation.Read:	Read product by ID finished
+24/05/2025 23:02:55	Dal.ProductImplementation.Update:	Update product started
+24/05/2025 23:02:55	Dal.ProductImplementation.Update:	Update product finished
+24/05/2025 23:02:56	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:02:56	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:03:11	Dal.ProductImplementation.Read:	Read product with filter started
+24/05/2025 23:03:11	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:03:11	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:03:20	Dal.ProductImplementation.Read:	Read product with filter started
+24/05/2025 23:03:20	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:03:20	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:03:36	Dal.ProductImplementation.Read:	Read product with filter started
+24/05/2025 23:03:36	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:03:36	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:03:43	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:03:43	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:03:51	Dal.ProductImplementation.Read:	Read product with filter started
+24/05/2025 23:03:51	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:03:51	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:03:55	Dal.ProductImplementation.Read:	Read product with filter started
+24/05/2025 23:03:55	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:03:55	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:03:59	Dal.ProductImplementation.Read:	Read product with filter started
+24/05/2025 23:03:59	Dal.ProductImplementation.ReadAll:	Read all products started
+24/05/2025 23:03:59	Dal.ProductImplementation.ReadAll:	Read all products finished
+24/05/2025 23:04:02	Dal.SaleImplementation.ReadAll:	Read all sales started
+24/05/2025 23:04:02	Dal.SaleImplementation.ReadAll:	Read all sales finished
+24/05/2025 23:04:23	CustomerImplementation.Create:	Started creating new customer
+24/05/2025 23:04:23	CustomerImplementation.ReadAll:	Started reading all customers
+24/05/2025 23:04:23	CustomerImplementation.ReadAll:	Finished reading all customers
+24/05/2025 23:04:23	CustomerImplementation.Create:	Finished creating new customer
+24/05/2025 23:04:29	Dal.ProductImplementation.Delete:	Delete product started
+24/05/2025 23:04:29	Dal.ProductImplementation.Delete:	Error: Product with code 1 not found.
+24/05/2025 23:35:12	CustomerImplementation.Create:	Started creating new customer
+24/05/2025 23:35:12	CustomerImplementation.ReadAll:	Started reading all customers
+24/05/2025 23:35:12	CustomerImplementation.ReadAll:	Finished reading all customers
+24/05/2025 23:35:12	CustomerImplementation.Create:	Finished creating new customer
+24/05/2025 23:35:45	CustomerImplementation.Create:	Started creating new customer
+24/05/2025 23:35:45	CustomerImplementation.ReadAll:	Started reading all customers
+24/05/2025 23:35:45	CustomerImplementation.ReadAll:	Finished reading all customers
+24/05/2025 23:35:45	CustomerImplementation.Create:	Finished creating new customer
+24/05/2025 23:41:12	CustomerImplementation.Create:	Started creating new customer
+24/05/2025 23:41:12	CustomerImplementation.ReadAll:	Started reading all customers
+24/05/2025 23:41:12	CustomerImplementation.ReadAll:	Finished reading all customers
+24/05/2025 23:41:12	CustomerImplementation.Create:	Error: Customer with ID 0 already exists.
+25/05/2025 00:16:10	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 00:16:10	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 00:16:10	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 00:16:10	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 00:16:11	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 00:16:11	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 00:16:13	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:16:13	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:16:13	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 00:16:13	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 00:16:17	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:16:17	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:16:17	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 00:16:17	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 00:16:17	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:16:17	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:16:19	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 00:16:19	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 00:16:22	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:16:22	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:16:22	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 00:16:22	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 00:16:25	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:16:25	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:16:25	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 00:16:25	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 00:16:25	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:16:25	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:25:13	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 00:25:13	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 00:25:13	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 00:25:13	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 00:25:14	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 00:25:14	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 00:25:16	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:25:16	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:25:16	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 00:25:16	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 00:25:19	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:25:19	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:25:19	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 00:25:19	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 00:25:22	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:25:22	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:25:22	Dal.ProductImplementation.Update:	Update product started
+25/05/2025 00:25:22	Dal.ProductImplementation.Update:	Update product finished
+25/05/2025 00:25:28	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 00:25:28	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 00:25:28	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 00:25:28	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 00:25:29	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 00:25:29	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 00:25:31	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:25:31	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:25:31	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 00:25:31	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 00:25:33	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:25:33	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:25:33	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 00:25:33	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 00:25:33	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:25:33	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:27:46	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 00:27:46	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 00:27:46	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 00:27:46	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 00:27:47	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 00:27:47	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 00:27:49	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 00:27:49	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 00:27:49	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 00:27:49	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 00:51:07	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 00:51:07	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 00:51:07	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 00:51:07	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 01:11:34	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:11:34	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:11:49	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 01:11:49	Dal.ProductImplementation.Create:	Error: מוצר עם שם נעל עקב כבר קיים.
+25/05/2025 01:12:52	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:12:52	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:13:02	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 01:13:02	Dal.ProductImplementation.Create:	Error: מוצר עם שם נעל עקב כבר קיים.
+25/05/2025 01:15:18	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 01:15:18	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 01:15:18	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 01:15:18	CustomerImplementation.Create:	Error: Customer with ID 0 already exists.
+25/05/2025 01:15:40	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 01:15:40	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 01:15:40	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 01:15:40	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 01:15:52	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 01:15:52	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 01:15:52	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 01:15:52	CustomerImplementation.Create:	Error: Customer with ID 45654 already exists.
+25/05/2025 01:16:14	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 01:16:14	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 01:16:14	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 01:16:14	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 01:29:48	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:29:48	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:29:57	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 01:30:25	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:30:25	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:30:40	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 01:30:40	Dal.ProductImplementation.Create:	Create product finished
+25/05/2025 01:30:40	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:30:40	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:32:53	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:32:53	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:33:07	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 01:33:07	Dal.ProductImplementation.Delete:	Delete product finished
+25/05/2025 01:33:09	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:33:09	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:33:16	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 01:33:16	Dal.ProductImplementation.Create:	Create product finished
+25/05/2025 01:33:16	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:33:16	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:33:21	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 01:33:21	Dal.ProductImplementation.Create:	Create product finished
+25/05/2025 01:33:21	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:33:21	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:34:17	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:34:17	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:34:23	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 01:34:23	Dal.ProductImplementation.Create:	Create product finished
+25/05/2025 01:34:23	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:34:23	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:34:32	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 01:34:32	Dal.ProductImplementation.Delete:	Delete product finished
+25/05/2025 01:34:34	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:34:34	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:34:38	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 01:34:38	Dal.ProductImplementation.Delete:	Delete product finished
+25/05/2025 01:34:39	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:34:40	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:34:42	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 01:34:43	Dal.ProductImplementation.Delete:	Delete product finished
+25/05/2025 01:34:44	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:34:44	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:35:48	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:35:48	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:35:51	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:35:51	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:35:54	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 01:35:54	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 01:36:04	Dal.ProductImplementation.Update:	Update product started
+25/05/2025 01:36:04	Dal.ProductImplementation.Update:	Update product finished
+25/05/2025 01:36:05	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:36:05	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:36:08	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:36:08	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:36:10	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 01:36:10	Dal.ProductImplementation.Read:	Read product by ID finished
+25/05/2025 01:36:14	Dal.ProductImplementation.Update:	Update product started
+25/05/2025 01:36:14	Dal.ProductImplementation.Update:	Update product finished
+25/05/2025 01:36:16	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:36:16	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:38:13	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:38:13	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:38:17	Dal.ProductImplementation.Read:	Read product with filter started
+25/05/2025 01:38:17	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:38:17	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:39:06	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:39:06	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:39:09	Dal.ProductImplementation.Read:	Read product with filter started
+25/05/2025 01:39:09	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:39:09	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:57:17	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:57:17	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:57:33	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 01:57:33	Dal.ProductImplementation.Create:	Create product finished
+25/05/2025 01:57:33	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:57:33	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:57:37	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:57:37	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:57:41	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 01:57:44	Dal.ProductImplementation.Update:	Update product started
+25/05/2025 01:57:44	Dal.ProductImplementation.Update:	Update product finished
+25/05/2025 01:57:45	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:57:45	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 01:57:49	Dal.ProductImplementation.Read:	Read product with filter started
+25/05/2025 01:57:49	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 01:57:49	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 02:02:42	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 02:02:42	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 02:02:42	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 02:02:42	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 02:02:43	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 02:02:43	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 02:02:46	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:02:46	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 02:02:47	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 02:02:49	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:02:49	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 02:02:49	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 02:10:05	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 02:10:05	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 02:10:05	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 02:10:05	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 02:10:06	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 02:10:06	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 02:10:09	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:10:09	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 02:10:09	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 02:10:27	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 02:10:27	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 02:10:27	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 02:10:27	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 02:10:28	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 02:10:28	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 02:10:30	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:10:30	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 02:10:30	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 02:10:34	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:10:34	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 02:10:34	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 02:10:34	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:10:41	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 02:10:41	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 02:10:44	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:10:44	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 02:10:44	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 02:10:47	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:10:47	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 02:10:47	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 02:10:57	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 02:10:57	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 02:11:03	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:11:03	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 02:11:03	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 02:11:08	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 02:11:08	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 02:11:08	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 02:11:08	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:31:56	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 19:31:56	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 19:31:56	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 19:31:56	CustomerImplementation.Create:	Error: Customer with ID 0 already exists.
+25/05/2025 19:32:05	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 19:32:05	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 19:32:05	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 19:32:05	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 19:32:17	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 19:32:58	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 19:33:48	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 19:41:58	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 19:41:58	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 19:41:59	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 19:41:59	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 19:42:38	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 19:42:38	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 19:42:38	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 19:42:38	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 19:42:46	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 19:42:46	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 19:42:46	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 19:42:46	CustomerImplementation.Delete:	Error: Customer with code 79625524 not found.
+25/05/2025 19:45:38	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 19:45:38	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 19:45:38	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 19:45:38	CustomerImplementation.Delete:	Error: Customer with code 225558497 not found.
+25/05/2025 19:47:27	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 19:47:27	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 19:47:27	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 19:47:27	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 19:47:29	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:47:29	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 19:47:32	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:47:32	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:47:32	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:47:35	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:47:35	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:47:35	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:47:35	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:47:37	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:47:37	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 19:47:40	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:47:40	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:47:40	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:47:43	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:47:43	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:47:43	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:47:54	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:47:54	Dal.ProductImplementation.Update:	Update product started
+25/05/2025 19:47:54	Dal.ProductImplementation.Update:	Update product finished
+25/05/2025 19:47:54	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:47:54	Dal.ProductImplementation.Update:	Update product started
+25/05/2025 19:47:54	Dal.ProductImplementation.Update:	Update product finished
+25/05/2025 19:48:23	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 19:48:23	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 19:48:23	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 19:48:23	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 19:48:25	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:48:25	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 19:48:29	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:48:29	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:48:29	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:48:52	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 19:48:52	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 19:48:52	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 19:48:52	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 19:48:53	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:48:53	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 19:48:55	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:48:55	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:48:55	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:48:58	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:48:58	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:48:58	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:48:58	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 19:51:06	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:51:06	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 19:51:28	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:51:29	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:51:43	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:51:43	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:51:52	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 19:51:52	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 19:51:55	Dal.SaleImplementation.Read:	Read sale by ID started
+25/05/2025 19:51:55	Dal.SaleImplementation.Read:	Read sale by ID finished
+25/05/2025 19:52:01	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:52:01	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 19:52:06	Dal.ProductImplementation.Read:	Read product with filter started
+25/05/2025 19:52:06	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:52:06	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 19:52:14	Dal.ProductImplementation.Read:	Read product with filter started
+25/05/2025 19:52:14	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:52:14	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 19:52:22	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 19:52:22	Dal.ProductImplementation.Create:	Create product finished
+25/05/2025 19:52:22	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:52:22	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 19:52:32	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 19:52:32	Dal.ProductImplementation.Delete:	Delete product finished
+25/05/2025 19:52:34	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 19:52:34	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 20:02:06	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 20:02:06	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 20:02:07	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 20:02:07	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 20:03:10	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 20:03:10	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 20:03:10	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 20:03:10	CustomerImplementation.Create:	Error: Customer with ID 55 already exists.
+25/05/2025 20:03:16	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 20:03:16	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 20:03:16	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 20:03:16	CustomerImplementation.Create:	Error: Customer with ID 555 already exists.
+25/05/2025 20:03:22	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 20:03:22	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 20:03:22	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 20:03:22	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 20:03:28	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 20:03:28	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 20:03:28	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 20:03:28	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 20:03:33	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 20:03:33	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 20:03:33	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 20:03:33	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 20:03:38	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 20:03:38	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 20:04:34	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 20:04:34	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 20:05:29	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 20:05:29	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 20:07:05	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 20:07:05	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 20:07:15	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 20:07:15	Dal.ProductImplementation.Create:	Create product finished
+25/05/2025 20:07:15	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 20:07:15	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 20:07:22	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 20:07:22	Dal.ProductImplementation.Delete:	Delete product finished
+25/05/2025 20:07:24	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 20:07:24	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 20:08:37	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 20:08:37	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 20:08:44	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 20:08:44	Dal.ProductImplementation.Create:	Create product finished
+25/05/2025 20:08:46	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 20:08:46	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 20:08:51	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 20:08:51	Dal.ProductImplementation.Delete:	Delete product finished
+25/05/2025 20:08:52	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 20:08:52	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 21:36:12	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:36:12	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:36:17	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 21:36:17	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:36:17	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:36:17	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 21:36:25	CustomerImplementation.Update:	Started updating customer
+25/05/2025 21:36:25	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 21:36:25	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:36:25	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:36:25	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 21:36:25	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 21:36:25	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:36:25	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:36:25	CustomerImplementation.Create:	Error: Customer with ID 1 already exists.
+25/05/2025 21:36:25	CustomerImplementation.Update:	Error: Customer with ID 1 already exists.
+25/05/2025 21:40:24	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:40:24	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:40:27	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 21:40:27	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:40:27	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:40:27	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 21:44:11	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:44:11	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:44:13	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 21:44:13	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:44:13	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:44:13	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 21:50:55	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:50:55	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:50:59	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 21:50:59	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:50:59	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:50:59	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 21:51:04	CustomerImplementation.Update:	Started updating customer
+25/05/2025 21:51:04	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 21:51:04	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:51:04	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:51:04	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 21:51:04	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 21:51:04	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:51:04	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:51:04	CustomerImplementation.Create:	Error: Customer with ID 1 already exists.
+25/05/2025 21:51:04	CustomerImplementation.Update:	Error: Customer with ID 1 already exists.
+25/05/2025 21:54:43	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 21:54:43	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:54:43	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:54:43	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 21:54:48	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 21:54:48	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:54:48	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:54:48	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 21:54:50	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:54:50	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:54:53	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 21:54:53	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:54:53	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:54:53	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 21:54:57	CustomerImplementation.Update:	Started updating customer
+25/05/2025 21:54:57	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 21:54:57	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:54:57	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:54:57	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 21:54:57	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 21:54:57	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:54:57	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:54:57	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 21:54:57	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 21:57:50	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:57:50	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:57:52	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 21:57:52	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:57:52	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:57:52	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 21:58:41	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:58:41	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:58:43	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 21:58:43	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:58:43	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:58:43	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 21:59:31	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:59:31	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:59:33	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 21:59:33	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:59:33	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:59:33	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 21:59:37	CustomerImplementation.Update:	Started updating customer
+25/05/2025 21:59:37	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 21:59:37	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:59:37	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:59:37	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 21:59:37	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 21:59:37	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 21:59:37	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 21:59:37	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 21:59:37	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 22:00:33	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:00:33	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:00:35	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 22:00:35	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:00:35	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:00:35	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 22:05:33	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:05:33	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:05:36	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 22:05:36	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:05:36	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:05:36	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 22:05:41	CustomerImplementation.Update:	Started updating customer
+25/05/2025 22:05:41	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 22:05:41	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:05:41	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:05:41	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 22:05:41	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 22:05:41	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:05:41	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:05:42	CustomerImplementation.Create:	Error: Customer with ID 1 already exists.
+25/05/2025 22:05:42	CustomerImplementation.Update:	Error: Customer with ID 1 already exists.
+25/05/2025 22:10:37	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:10:37	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:10:39	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 22:10:39	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:10:39	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:10:39	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 22:16:31	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:16:31	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:16:33	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 22:16:33	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:16:33	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:16:33	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 22:16:37	CustomerImplementation.Update:	Started updating customer
+25/05/2025 22:16:37	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 22:16:37	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:16:37	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:16:37	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 22:16:37	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 22:16:37	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:16:37	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:16:37	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 22:16:37	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 22:35:06	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:35:06	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:35:09	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 22:35:09	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:35:09	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:35:09	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 22:35:20	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 22:35:20	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:35:20	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:35:20	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 22:35:24	CustomerImplementation.Update:	Started updating customer
+25/05/2025 22:35:24	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 22:35:24	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:35:24	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:35:24	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 22:35:24	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 22:35:24	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:35:24	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:35:24	CustomerImplementation.Create:	Error: Customer with ID 3 already exists.
+25/05/2025 22:35:24	CustomerImplementation.Update:	Error: Customer with ID 3 already exists.
+25/05/2025 22:44:27	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 22:44:27	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:44:27	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:44:27	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 22:44:40	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 22:44:40	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:44:40	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:44:40	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 22:44:43	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:44:43	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:44:47	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 22:44:47	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:44:47	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:44:47	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 22:44:49	CustomerImplementation.Update:	Started updating customer
+25/05/2025 22:44:49	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 22:44:49	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:44:49	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:44:49	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 22:44:49	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 22:44:49	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:44:49	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:44:49	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 22:44:49	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 22:55:08	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 22:55:08	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 22:56:55	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:56:55	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:56:57	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:56:57	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:57:00	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 22:57:00	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:57:00	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:57:00	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 22:57:03	CustomerImplementation.Update:	Started updating customer
+25/05/2025 22:57:03	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 22:57:03	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:57:03	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:57:03	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 22:57:03	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 22:57:03	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 22:57:03	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 22:57:03	CustomerImplementation.Create:	Error: Customer with ID 3 already exists.
+25/05/2025 22:57:03	CustomerImplementation.Update:	Error: Customer with ID 3 already exists.
+25/05/2025 23:03:36	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:03:36	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:03:38	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:03:38	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:03:41	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:03:41	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:03:41	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:03:41	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:03:45	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:03:45	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:03:45	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:03:45	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:03:45	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:03:45	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:03:45	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:03:45	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:03:45	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:03:45	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:06:53	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 23:06:53	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 23:07:01	Dal.ProductImplementation.Create:	Create product started
+25/05/2025 23:07:01	Dal.ProductImplementation.Create:	Create product finished
+25/05/2025 23:07:02	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 23:07:02	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 23:07:07	Dal.ProductImplementation.Delete:	Delete product started
+25/05/2025 23:07:07	Dal.ProductImplementation.Delete:	Delete product finished
+25/05/2025 23:07:08	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 23:07:08	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 23:07:09	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 23:07:09	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 23:07:12	Dal.ProductImplementation.Read:	Read product by ID started
+25/05/2025 23:07:14	Dal.ProductImplementation.Update:	Update product started
+25/05/2025 23:07:14	Dal.ProductImplementation.Update:	Update product finished
+25/05/2025 23:07:15	Dal.ProductImplementation.ReadAll:	Read all products started
+25/05/2025 23:07:15	Dal.ProductImplementation.ReadAll:	Read all products finished
+25/05/2025 23:07:19	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 23:07:19	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 23:07:35	Dal.SaleImplementation.Create:	Create sale started
+25/05/2025 23:07:35	Dal.SaleImplementation.Create:	Create sale finished
+25/05/2025 23:07:36	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 23:07:36	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 23:07:51	Dal.SaleImplementation.Delete:	Delete sale started
+25/05/2025 23:07:52	Dal.SaleImplementation.Delete:	Delete sale finished
+25/05/2025 23:07:53	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 23:07:53	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 23:07:54	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 23:07:54	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 23:07:58	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:07:58	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:08:03	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:08:03	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:08:06	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:08:06	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:08:06	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:08:06	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:08:07	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:08:07	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:08:07	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:08:07	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:08:07	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:08:07	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:08:07	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:08:07	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:08:07	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:08:07	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:08:16	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 23:08:16	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 23:08:17	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 23:08:17	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 23:08:19	Dal.SaleImplementation.Read:	Read sale by ID started
+25/05/2025 23:08:19	Dal.SaleImplementation.Read:	Read sale by ID finished
+25/05/2025 23:08:20	Dal.SaleImplementation.Update:	Update sale started
+25/05/2025 23:08:20	Dal.SaleImplementation.Update:	Update sale finished
+25/05/2025 23:08:21	Dal.SaleImplementation.ReadAll:	Read all sales started
+25/05/2025 23:08:21	Dal.SaleImplementation.ReadAll:	Read all sales finished
+25/05/2025 23:17:33	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:17:33	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:17:35	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:17:35	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:17:37	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:17:37	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:17:37	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:17:37	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:17:38	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:17:38	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:17:38	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:17:38	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:17:38	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:17:38	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:17:38	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:17:38	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:17:38	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:17:38	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:30:01	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:01	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:02	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:02	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:06	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:30:06	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:06	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:06	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:30:13	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:30:13	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:30:13	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:13	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:13	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:30:13	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:30:13	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:13	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:13	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:30:13	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:30:19	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:30:19	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:30:20	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:20	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:20	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:30:20	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:30:20	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:20	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:20	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:30:20	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:30:28	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:28	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:54	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:54	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:54	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:54	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:57	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:30:57	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:57	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:57	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:30:57	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:30:57	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:30:57	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:57	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:57	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:30:57	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:30:57	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:30:57	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:30:57	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:30:57	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:31:00	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:31:00	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:31:00	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:31:00	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:31:00	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:31:00	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:31:00	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:31:00	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:31:01	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:31:01	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:31:26	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:31:26	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:31:27	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:31:27	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:31:29	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:31:29	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:31:29	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:31:29	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:31:54	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:32:05	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:32:12	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:32:26	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:32:43	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:32:45	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:32:45	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:32:45	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:32:45	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:32:47	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:33:25	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:25	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:25	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:25	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:27	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:33:27	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:27	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:27	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:33:29	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:33:29	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:29	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:29	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:33:30	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:33:30	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:33:30	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:30	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:30	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:33:30	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:33:30	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:30	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:30	CustomerImplementation.Create:	Error: Customer with ID 1 already exists.
+25/05/2025 23:33:31	CustomerImplementation.Update:	Error: Customer with ID 1 already exists.
+25/05/2025 23:33:34	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:33:34	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:33:34	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:34	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:34	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:33:34	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:33:34	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:34	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:34	CustomerImplementation.Create:	Error: Customer with ID 1 already exists.
+25/05/2025 23:33:34	CustomerImplementation.Update:	Error: Customer with ID 1 already exists.
+25/05/2025 23:33:50	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:51	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:52	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:52	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:54	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:33:54	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:54	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:54	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:33:58	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:33:58	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:33:58	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:58	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:58	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:33:58	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:33:58	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:33:58	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:33:58	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:33:58	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:34:07	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:34:07	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:34:07	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:34:07	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:34:09	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:34:09	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:34:09	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:34:09	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:34:25	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:34:30	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:34:35	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:34:42	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:34:56	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:35:04	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:35:10	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:35:23	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:37:19	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:37:19	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:37:20	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:37:20	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:37:22	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:37:22	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:37:22	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:37:22	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:37:41	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:37:41	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:37:42	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:37:42	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:37:42	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:37:42	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:37:42	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:37:42	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:37:42	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:37:42	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:38:03	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:38:03	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:38:04	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:38:04	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:38:06	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:38:06	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:38:07	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:38:07	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:38:24	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:38:31	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:38:38	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:39:01	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:39:28	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:39:51	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:39:57	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:40:07	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:40:48	CustomerImplementation.Create:	Error: Customer with ID 3 already exists.
+25/05/2025 23:40:59	CustomerImplementation.Update:	Error: Customer with ID 3 already exists.
+25/05/2025 23:43:44	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:43:44	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:43:45	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:43:45	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:43:46	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:43:46	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:43:46	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:43:46	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:43:48	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:43:48	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:43:48	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:43:48	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:44:04	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:04	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:05	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:05	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:07	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:44:07	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:07	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:07	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:44:09	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:44:09	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:09	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:09	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:44:12	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:44:12	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:44:12	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:12	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:12	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:44:12	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:44:12	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:12	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:13	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:44:13	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:44:15	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:15	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:18	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:18	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:21	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:44:21	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:21	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:21	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:44:22	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:44:22	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:44:22	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:22	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:22	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:44:22	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:44:22	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:22	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:22	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:44:22	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:44:26	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:26	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:27	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:27	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:34	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:44:34	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:34	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:34	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:44:48	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:44:48	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:44:48	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:48	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:48	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:44:48	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:44:48	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:48	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:48	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:44:48	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:44:49	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:49	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:44:58	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:44:58	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:00	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:45:00	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:00	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:00	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:45:10	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:45:10	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:45:10	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:10	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:10	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:45:10	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:45:10	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:10	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:10	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:45:10	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:45:11	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:11	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:17	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:17	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:19	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:45:19	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:19	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:19	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:45:24	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:45:24	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:45:24	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:24	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:24	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:45:24	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:45:24	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:24	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:24	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:45:24	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:45:25	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:25	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:34	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:34	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:36	CustomerImplementation.Read:	Started reading customer by ID
+25/05/2025 23:45:36	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:36	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:36	CustomerImplementation.Read:	Finished reading customer by ID
+25/05/2025 23:45:44	CustomerImplementation.Update:	Started updating customer
+25/05/2025 23:45:44	CustomerImplementation.Delete:	Started deleting customer
+25/05/2025 23:45:44	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:44	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:44	CustomerImplementation.Delete:	Finished deleting customer
+25/05/2025 23:45:44	CustomerImplementation.Create:	Started creating new customer
+25/05/2025 23:45:44	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:44	CustomerImplementation.ReadAll:	Finished reading all customers
+25/05/2025 23:45:44	CustomerImplementation.Create:	Finished creating new customer
+25/05/2025 23:45:44	CustomerImplementation.Update:	Finished updating customer
+25/05/2025 23:45:45	CustomerImplementation.ReadAll:	Started reading all customers
+25/05/2025 23:45:45	CustomerImplementation.ReadAll:	Finished reading all customers

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOFProduct>
+  <Product>
+    <Code>104</Code>
+    <Name>נעל עקב</Name>
+    <cost>110</cost>
+    <count>1058</count>
+    <category>אלגנט</category>
+    <ProductNane>רררררררר</ProductNane>
+    <Category>3</Category>
+  </Product>
+  <Product>
+    <Code>105</Code>
+    <Name>נעל פפיון</Name>
+    <cost>150</cost>
+    <count>395</count>
+    <category>אלגנט</category>
+  </Product>
+  <Product>
+    <Code>106</Code>
+    <Name>נעל שחורה</Name>
+    <cost>140</cost>
+    <count>1037</count>
+    <category>גברים</category>
+  </Product>
+  <Product>
+    <Code>107</Code>
+    <Name>שפיץ עם שרוכים</Name>
+    <cost>199</cost>
+    <count>110</count>
+    <category>גברים</category>
+  </Product>
+  <Product>
+    <Code>108</Code>
+    <Name>סקוצ</Name>
+    <cost>190</cost>
+    <count>2045</count>
+    <category>גברים</category>
+  </Product>
+  <Product>
+    <Code>109</Code>
+    <Name>נעל לחתונות</Name>
+    <cost>350</cost>
+    <count>408</count>
+    <category>אלגנט</category>
+  </Product>
+  <Product>
+    <Code>112</Code>
+    <Name>נעל שבתית</Name>
+    <cost>166</cost>
+    <count>191</count>
+    <category>נשים</category>
+  </Product>
+  <Product>
+    <Code>115</Code>
+    <Name>שטוח</Name>
+    <cost>41</cost>
+    <count>74</count>
+    <category>נשים</category>
+  </Product>
+</ArrayOFProduct>

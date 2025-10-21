@@ -1,0 +1,74 @@
+24/12/2024 09:58:52	Dal.ProductImplememetation.Create:	Create product started
+24/12/2024 09:58:52	Dal.ProductImplememetation.Create:	Create productProduct { Code = 100, ProductNane = נעל בנות, Category = נשים, Cost = 23, Count = 2 }
+24/12/2024 09:58:52	Dal.saleImplememetation.Create:	Create sale started
+24/12/2024 09:58:52	Dal.saleImplememetation.Create:	Create saleSale { Id = 200, ProductID = 0, Count = 0, cost = 0, IsClub = False, DateBeginSale = 24/12/2024 09:58:52, DateEndSale = 24/12/2024 09:58:52 }
+24/12/2024 09:58:52	Dal.CustomerImplememetion.Create:	Create customer started
+24/12/2024 09:58:52	Dal.CustomerImplememetion.Create:	Create customerCustomer { Id = 0, CustomerName = brachi, Address = chafetz chaim, PhoneNumber = 0 }
+24/12/2024 09:59:35	Dal.CustomerImplememetion.Update:	Update customer started
+24/12/2024 09:59:35	Dal.CustomerImplememetion.Delete:	Delete customer started
+24/12/2024 09:59:56	Dal.CustomerImplememetion.Update:	Update customerCustomer { Id = 1, CustomerName = h, Address = j, PhoneNumber = 0 }
+24/12/2024 10:00:02	Dal.ProductImplememetation.Create:	Create product started
+24/12/2024 10:00:02	Dal.ProductImplememetation.Create:	Create productProduct { Code = 100, ProductNane = נעל בנות, Category = נשים, Cost = 23, Count = 2 }
+24/12/2024 10:00:02	Dal.saleImplememetation.Create:	Create sale started
+24/12/2024 10:00:02	Dal.saleImplememetation.Create:	Create saleSale { Id = 200, ProductID = 0, Count = 0, cost = 0, IsClub = False, DateBeginSale = 24/12/2024 10:00:02, DateEndSale = 24/12/2024 10:00:02 }
+24/12/2024 10:00:02	Dal.CustomerImplememetion.Create:	Create customer started
+24/12/2024 10:00:02	Dal.CustomerImplememetion.Create:	Create customerCustomer { Id = 0, CustomerName = brachi, Address = chafetz chaim, PhoneNumber = 0 }
+24/12/2024 10:00:28	Dal.saleImplememetation.Update:	Update sale STARTED
+24/12/2024 10:00:28	Dal.saleImplememetation.Delete:	Delete sale started
+24/12/2024 10:01:33	Dal.ProductImplememetation.Create:	Create product started
+24/12/2024 10:01:33	Dal.ProductImplememetation.Create:	Create productProduct { Code = 100, ProductNane = נעל בנות, Category = נשים, Cost = 23, Count = 2 }
+24/12/2024 10:01:33	Dal.saleImplememetation.Create:	Create sale started
+24/12/2024 10:01:33	Dal.saleImplememetation.Create:	Create saleSale { Id = 200, ProductID = 0, Count = 0, cost = 0, IsClub = False, DateBeginSale = 24/12/2024 10:01:33, DateEndSale = 24/12/2024 10:01:33 }
+24/12/2024 10:01:33	Dal.CustomerImplememetion.Create:	Create customer started
+24/12/2024 10:01:33	Dal.CustomerImplememetion.Create:	Create customerCustomer { Id = 0, CustomerName = brachi, Address = chafetz chaim, PhoneNumber = 0 }
+24/12/2024 10:01:48	Dal.saleImplememetation.Delete:	Delete sale started
+24/12/2024 10:01:48	Dal.saleImplememetation.Delete:	Delete sale
+24/12/2024 19:08:53	Dal.ProductImplememetation.Create:	Create product started
+24/12/2024 19:08:53	Dal.ProductImplememetation.Create:	finish Create product
+24/12/2024 19:08:53	Dal.saleImplememetation.Create:	Create sale started
+24/12/2024 19:08:53	Dal.saleImplememetation.Create:	finish Create sale
+24/12/2024 19:08:53	Dal.CustomerImplememetion.Create:	Create customer started
+24/12/2024 19:08:53	Dal.CustomerImplememetion.Create:	finsh Create customer
+24/12/2024 19:09:00	Dal.ProductImplememetation.Read:	read product started
+24/12/2024 19:09:00	Dal.ProductImplememetation.Read:	finish Read product
+25/12/2024 20:53:30	Dal.ProductImplememetation.Create:	Create product started
+25/12/2024 20:53:30	Dal.ProductImplememetation.Create:	finish Create product
+25/12/2024 20:53:30	Dal.saleImplememetation.Create:	Create sale started
+25/12/2024 20:53:30	Dal.saleImplememetation.Create:	finish Create sale
+25/12/2024 20:53:30	Dal.CustomerImplememetion.Create:	Create customer started
+25/12/2024 20:53:30	Dal.CustomerImplememetion.Create:	finsh Create customer
+25/12/2024 20:53:39	Dal.ProductImplememetation.Create:	Create product started
+25/12/2024 20:53:39	Dal.ProductImplememetation.Create:	finish Create product
+25/12/2024 20:53:44	Dal.ProductImplememetation.Create:	Create product started
+25/12/2024 20:53:44	Dal.ProductImplememetation.Create:	finish Create product
+25/12/2024 20:53:53	Dal.ProductImplememetation.Read:	read product started
+25/12/2024 20:53:53	Dal.ProductImplememetation.Read:	finish Read product
+25/12/2024 20:54:09	Dal.ProductImplememetation.Update:	Delete product started
+25/12/2024 20:54:09	Dal.ProductImplememetation.Delete:	Delete product started
+25/12/2024 20:54:09	Dal.ProductImplememetation.Delete:	finish Delete product
+25/12/2024 20:54:09	Dal.ProductImplememetation.Update:	finish Delete product
+25/12/2024 20:54:12	Dal.ProductImplememetation.ReadAll:	Read all
+25/12/2024 20:57:27	Dal.ProductImplememetation.Create:	Create product started
+25/12/2024 20:57:27	Dal.ProductImplememetation.Create:	finish Create product
+25/12/2024 20:57:27	Dal.saleImplememetation.Create:	Create sale started
+25/12/2024 20:57:27	Dal.saleImplememetation.Create:	finish Create sale
+25/12/2024 20:57:27	Dal.CustomerImplememetion.Create:	Create customer started
+25/12/2024 20:57:27	Dal.CustomerImplememetion.Create:	finsh Create customer
+25/12/2024 20:57:35	Dal.CustomerImplememetion.Create:	Create customer started
+25/12/2024 20:57:35	Dal.CustomerImplememetion.Create:	finsh Create customer
+25/12/2024 20:57:47	Dal.CustomerImplememetion.Delete:	Delete customer started
+25/12/2024 20:57:51	Dal.CustomerImplememetion.ReadAll:	read all
+25/12/2024 21:00:59	Dal.ProductImplememetation.Create:	Create product started
+25/12/2024 21:00:59	Dal.ProductImplememetation.Create:	finish Create product
+25/12/2024 21:00:59	Dal.saleImplememetation.Create:	Create sale started
+25/12/2024 21:00:59	Dal.saleImplememetation.Create:	finish Create sale
+25/12/2024 21:00:59	Dal.CustomerImplememetion.Create:	Create customer started
+25/12/2024 21:00:59	Dal.CustomerImplememetion.Create:	finsh Create customer
+25/12/2024 21:02:16	Dal.ProductImplememetation.Create:	Create product started
+25/12/2024 21:02:16	Dal.ProductImplememetation.Create:	finish Create product
+25/12/2024 21:02:16	Dal.saleImplememetation.Create:	Create sale started
+25/12/2024 21:02:16	Dal.saleImplememetation.Create:	finish Create sale
+25/12/2024 21:02:16	Dal.CustomerImplememetion.Create:	Create customer started
+25/12/2024 21:02:16	Dal.CustomerImplememetion.Create:	finsh Create customer
+25/12/2024 21:02:27	Dal.saleImplememetation.Create:	Create sale started
+25/12/2024 21:02:27	Dal.saleImplememetation.Create:	finish Create sale
